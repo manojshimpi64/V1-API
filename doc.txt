@@ -1,0 +1,5 @@
+//Pending 
+
+1=> make respective directory of email template
+2=> pagination 
+3=> pdf file and print data
