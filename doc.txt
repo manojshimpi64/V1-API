@@ -3,3 +3,13 @@
 1=> make respective directory of email template
 2=> pagination 
 3=> pdf file and print data
+
+==================23-jan-2024=====================
+
+pending google auth
+check condition in normal login in if google_id through registerd or lgoin then check validation
+token implementation
+test request from client
+telegram login with registerd
+facbook
+
